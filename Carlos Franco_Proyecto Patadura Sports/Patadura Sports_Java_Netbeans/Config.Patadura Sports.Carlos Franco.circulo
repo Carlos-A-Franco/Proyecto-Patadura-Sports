@@ -1,0 +1,5 @@
+
+driver:"com.mysql.jdbc.Driver"
+servidor:"jdbc:mysql://localhost:3306/patadura sports"
+usuario:"root"
+pass:""
